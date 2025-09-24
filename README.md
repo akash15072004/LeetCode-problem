@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0095-unique-binary-search-trees-ii) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/akash15072004/LeetCode-problem/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
