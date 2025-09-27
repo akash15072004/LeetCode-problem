@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/akash15072004/LeetCode-problem/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/akash15072004/LeetCode-problem/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash15072004/LeetCode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
 ## String
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/akash15072004/LeetCode-problem/tree/master/0147-insertion-sort-list) |
+## Math
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
