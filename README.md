@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akash15072004/LeetCode-problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/akash15072004/LeetCode-problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akash15072004/LeetCode-problem/tree/master/0238-product-of-array-except-self) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/akash15072004/LeetCode-problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Breadth-First Search
 |  |
 | ------- |
