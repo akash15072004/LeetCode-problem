@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/akash15072004/LeetCode-problem/tree/master/0060-permutation-sequence) |
 | [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
 ## Geometry
 |  |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/akash15072004/LeetCode-problem/tree/master/0303-range-sum-query-immutable) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/akash15072004/LeetCode-problem/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
