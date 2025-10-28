@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/akash15072004/LeetCode-problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/akash15072004/LeetCode-problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## String
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/akash15072004/LeetCode-problem/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/akash15072004/LeetCode-problem/tree/master/0303-range-sum-query-immutable) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/akash15072004/LeetCode-problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/akash15072004/LeetCode-problem/tree/master/0060-permutation-sequence) |
+## Simulation
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
