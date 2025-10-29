@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/akash15072004/LeetCode-problem/tree/master/0060-permutation-sequence) |
 | [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/akash15072004/LeetCode-problem/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Geometry
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/akash15072004/LeetCode-problem/tree/master/1873-longest-nice-substring) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/akash15072004/LeetCode-problem/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sliding Window
 |  |
 | ------- |
