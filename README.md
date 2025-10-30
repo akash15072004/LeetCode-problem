@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/akash15072004/LeetCode-problem/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/akash15072004/LeetCode-problem/tree/master/0120-triangle) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akash15072004/LeetCode-problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/akash15072004/LeetCode-problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -133,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3616-make-array-elements-equal-to-zero) |
+## Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Greedy
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
