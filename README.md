@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akash15072004/LeetCode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akash15072004/LeetCode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Database
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/akash15072004/LeetCode-problem/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akash15072004/LeetCode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akash15072004/LeetCode-problem/tree/master/0417-pacific-atlantic-water-flow) |
 ## Matrix
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akash15072004/LeetCode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akash15072004/LeetCode-problem/tree/master/0417-pacific-atlantic-water-flow) |
 ## Heap (Priority Queue)
