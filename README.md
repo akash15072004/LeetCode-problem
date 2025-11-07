@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash15072004/LeetCode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/akash15072004/LeetCode-problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Tree
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/akash15072004/LeetCode-problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/akash15072004/LeetCode-problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/akash15072004/LeetCode-problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akash15072004/LeetCode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/akash15072004/LeetCode-problem/tree/master/1873-longest-nice-substring) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/akash15072004/LeetCode-problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akash15072004/LeetCode-problem/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/akash15072004/LeetCode-problem/tree/master/0303-range-sum-query-immutable) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/akash15072004/LeetCode-problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/akash15072004/LeetCode-problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Breadth-First Search
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/akash15072004/LeetCode-problem/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -172,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/akash15072004/LeetCode-problem/tree/master/2121-find-if-path-exists-in-graph) |
+## Queue
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/akash15072004/LeetCode-problem/tree/master/2618-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
