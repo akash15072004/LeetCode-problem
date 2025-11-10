@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akash15072004/LeetCode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,15 +162,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/akash15072004/LeetCode-problem/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union Find
 |  |
 | ------- |
