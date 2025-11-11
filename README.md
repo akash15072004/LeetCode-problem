@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/akash15072004/LeetCode-problem/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/akash15072004/LeetCode-problem/tree/master/0120-triangle) |
+| [0474-ones-and-zeroes](https://github.com/akash15072004/LeetCode-problem/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Backtracking
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/akash15072004/LeetCode-problem/tree/master/0303-range-sum-query-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akash15072004/LeetCode-problem/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/akash15072004/LeetCode-problem/tree/master/0474-ones-and-zeroes) |
 | [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/akash15072004/LeetCode-problem/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/akash15072004/LeetCode-problem/tree/master/0079-word-search) |
+| [0474-ones-and-zeroes](https://github.com/akash15072004/LeetCode-problem/tree/master/0474-ones-and-zeroes) |
 | [1873-longest-nice-substring](https://github.com/akash15072004/LeetCode-problem/tree/master/1873-longest-nice-substring) |
 ## Depth-First Search
 |  |
