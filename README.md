@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akash15072004/LeetCode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/akash15072004/LeetCode-problem/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akash15072004/LeetCode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akash15072004/LeetCode-problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [2121-find-if-path-exists-in-graph](https://github.com/akash15072004/LeetCode-problem/tree/master/2121-find-if-path-exists-in-graph) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/akash15072004/LeetCode-problem/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Matrix
 |  |
 | ------- |
