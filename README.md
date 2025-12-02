@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
@@ -116,11 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/akash15072004/LeetCode-problem/tree/master/0060-permutation-sequence) |
 | [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akash15072004/LeetCode-problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/akash15072004/LeetCode-problem/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Geometry
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
+| [3623-count-number-of-trapezoids-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3623-count-number-of-trapezoids-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akash15072004/LeetCode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
