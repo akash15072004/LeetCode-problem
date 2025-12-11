@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/akash15072004/LeetCode-problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akash15072004/LeetCode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akash15072004/LeetCode-problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/akash15072004/LeetCode-problem/tree/master/3531-count-covered-buildings) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/akash15072004/LeetCode-problem/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/akash15072004/LeetCode-problem/tree/master/0759-set-intersection-size-at-least-two) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/akash15072004/LeetCode-problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akash15072004/LeetCode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3531-count-covered-buildings](https://github.com/akash15072004/LeetCode-problem/tree/master/3531-count-covered-buildings) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akash15072004/LeetCode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/akash15072004/LeetCode-problem/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akash15072004/LeetCode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/akash15072004/LeetCode-problem/tree/master/3531-count-covered-buildings) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3623-count-number-of-trapezoids-i) |
