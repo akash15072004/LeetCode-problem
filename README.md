@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/akash15072004/LeetCode-problem/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/akash15072004/LeetCode-problem/tree/master/0474-ones-and-zeroes) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/akash15072004/LeetCode-problem/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/akash15072004/LeetCode-problem/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/akash15072004/LeetCode-problem/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/akash15072004/LeetCode-problem/tree/master/0474-ones-and-zeroes) |
 | [0759-set-intersection-size-at-least-two](https://github.com/akash15072004/LeetCode-problem/tree/master/0759-set-intersection-size-at-least-two) |
 | [0830-largest-triangle-area](https://github.com/akash15072004/LeetCode-problem/tree/master/0830-largest-triangle-area) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/akash15072004/LeetCode-problem/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/akash15072004/LeetCode-problem/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/akash15072004/LeetCode-problem/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/akash15072004/LeetCode-problem/tree/master/0079-word-search) |
 | [0474-ones-and-zeroes](https://github.com/akash15072004/LeetCode-problem/tree/master/0474-ones-and-zeroes) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/akash15072004/LeetCode-problem/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1873-longest-nice-substring](https://github.com/akash15072004/LeetCode-problem/tree/master/1873-longest-nice-substring) |
 | [2211-count-collisions-on-a-road](https://github.com/akash15072004/LeetCode-problem/tree/master/2211-count-collisions-on-a-road) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/akash15072004/LeetCode-problem/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
