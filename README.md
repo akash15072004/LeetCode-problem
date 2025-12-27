@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/akash15072004/LeetCode-problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akash15072004/LeetCode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/akash15072004/LeetCode-problem/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/akash15072004/LeetCode-problem/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/akash15072004/LeetCode-problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash15072004/LeetCode-problem/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/akash15072004/LeetCode-problem/tree/master/0759-set-intersection-size-at-least-two) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/akash15072004/LeetCode-problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akash15072004/LeetCode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/akash15072004/LeetCode-problem/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash15072004/LeetCode-problem/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/akash15072004/LeetCode-problem/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/akash15072004/LeetCode-problem/tree/master/3606-coupon-code-validator) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1873-longest-nice-substring](https://github.com/akash15072004/LeetCode-problem/tree/master/1873-longest-nice-substring) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akash15072004/LeetCode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/akash15072004/LeetCode-problem/tree/master/2402-meeting-rooms-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/akash15072004/LeetCode-problem/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akash15072004/LeetCode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/akash15072004/LeetCode-problem/tree/master/3531-count-covered-buildings) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0407-trapping-rain-water-ii) |
+| [2402-meeting-rooms-iii](https://github.com/akash15072004/LeetCode-problem/tree/master/2402-meeting-rooms-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akash15072004/LeetCode-problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Design
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/akash15072004/LeetCode-problem/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akash15072004/LeetCode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/akash15072004/LeetCode-problem/tree/master/2402-meeting-rooms-iii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Stack
 |  |
