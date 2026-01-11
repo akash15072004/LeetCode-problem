@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/akash15072004/LeetCode-problem/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/akash15072004/LeetCode-problem/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/akash15072004/LeetCode-problem/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/akash15072004/LeetCode-problem/tree/master/0474-ones-and-zeroes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/akash15072004/LeetCode-problem/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/akash15072004/LeetCode-problem/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/akash15072004/LeetCode-problem/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/akash15072004/LeetCode-problem/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/akash15072004/LeetCode-problem/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash15072004/LeetCode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/akash15072004/LeetCode-problem/tree/master/0238-product-of-array-except-self) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/akash15072004/LeetCode-problem/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/akash15072004/LeetCode-problem/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/akash15072004/LeetCode-problem/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akash15072004/LeetCode-problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0840-magic-squares-in-grid](https://github.com/akash15072004/LeetCode-problem/tree/master/0840-magic-squares-in-grid) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/akash15072004/LeetCode-problem/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/akash15072004/LeetCode-problem/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/akash15072004/LeetCode-problem/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akash15072004/LeetCode-problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/akash15072004/LeetCode-problem/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union Find
