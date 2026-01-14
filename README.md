@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash15072004/LeetCode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/akash15072004/LeetCode-problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/akash15072004/LeetCode-problem/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3454-separate-squares-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Tree
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/akash15072004/LeetCode-problem/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/akash15072004/LeetCode-problem/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/akash15072004/LeetCode-problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3454-separate-squares-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akash15072004/LeetCode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akash15072004/LeetCode-problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/akash15072004/LeetCode-problem/tree/master/3531-count-covered-buildings) |
@@ -280,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/akash15072004/LeetCode-problem/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/akash15072004/LeetCode-problem/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
